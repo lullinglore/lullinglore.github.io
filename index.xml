@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Purple Planetarium</title>
+    <link>https://lulullia.github.io/</link>
+    <description>Recent content on Purple Planetarium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Lulullia</copyright>
+    <lastBuildDate>Wed, 06 Mar 2024 16:56:23 +0100</lastBuildDate>
+    <atom:link href="https://lulullia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://lulullia.github.io/about/</link>
+      <pubDate>Wed, 06 Mar 2024 16:56:23 +0100</pubDate>
+      <guid>https://lulullia.github.io/about/</guid>
+      <description>Some info on Lulullia.</description>
+    </item>
+  </channel>
+</rss>
