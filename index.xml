@@ -16,5 +16,19 @@
       <guid>https://lulullia.github.io/about/</guid>
       <description>Some info on Lulullia.</description>
     </item>
+    <item>
+      <title>Project 1</title>
+      <link>https://lulullia.github.io/projects/test-project/</link>
+      <pubDate>Tue, 05 Mar 2024 18:57:49 +0100</pubDate>
+      <guid>https://lulullia.github.io/projects/test-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://lulullia.github.io/blog/posts/test/</link>
+      <pubDate>Tue, 05 Mar 2024 18:57:49 +0100</pubDate>
+      <guid>https://lulullia.github.io/blog/posts/test/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed consectetur purus. Cras eros lacus, fermentum nec turpis nec, varius interdum velit. Praesent et ligula mi. Suspendisse eget sapien id neque scelerisque interdum. Nam ut felis sollicitudin, tempus eros sit amet, venenatis magna. Nunc faucibus leo quis porta elementum. Sed non scelerisque dui. Donec tempor, massa sit amet varius mattis, nisl magna varius leo, vel vestibulum magna diam non dolor. Curabitur porttitor posuere quam eget accumsan.</description>
+    </item>
   </channel>
 </rss>
