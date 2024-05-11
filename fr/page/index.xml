@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Purple Planetarium</title>
+        <link>https://lulullia.github.io/fr/page/</link>
+        <description>Recent content in Pages on Purple Planetarium</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr</language>
+        <copyright>Lulullia</copyright><atom:link href="https://lulullia.github.io/fr/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>À propos</title>
+        <link>https://lulullia.github.io/fr/%C3%A0-propos/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://lulullia.github.io/fr/%C3%A0-propos/</guid>
+        <description>&lt;p&gt;Des infos sur Lulullia.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/journey&#34; &gt;Journey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/projects&#34; &gt;Projets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/world&#34; &gt;Purpleverse Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Recherche</title>
+        <link>https://lulullia.github.io/fr/recherche/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://lulullia.github.io/fr/recherche/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

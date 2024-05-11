@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Purple Planetarium</title>
+        <link>https://lulullia.github.io/page/</link>
+        <description>Recent content in Pages on Purple Planetarium</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Lulullia</copyright><atom:link href="https://lulullia.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://lulullia.github.io/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://lulullia.github.io/about/</guid>
+        <description>&lt;p&gt;Youhou, Luli here!&lt;/p&gt;
+&lt;p&gt;This website is still under construction, so in the meantime, check out my &lt;a class=&#34;link&#34; href=&#34;https://lulullia.tumblr.com/about&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;previous blog&lt;/a&gt; c:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/journey&#34; &gt;Journey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/projects&#34; &gt;Projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/world&#34; &gt;Purpleverse Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Journey</title>
+        <link>https://lulullia.github.io/journey/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://lulullia.github.io/journey/</guid>
+        <description>&lt;p&gt;Journey page. Will contain links to Projects.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Navigation</title>
+        <link>https://lulullia.github.io/navigation/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://lulullia.github.io/navigation/</guid>
+        <description>&lt;p&gt;Sitemap.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/about&#34; &gt;About&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/journey&#34; &gt;Journey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/world&#34; &gt;Purpleverse Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/projects&#34; &gt;Projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/blog&#34; &gt;Blog&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/artblog&#34; &gt;Artblog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Topics: &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/topics/update&#34; &gt;Update&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/topics/gamedev&#34; &gt;Gamedev&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/topics/worldbuilding&#34; &gt;Worldbuilding&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/topics/storytelling&#34; &gt;Storytelling&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/topics/pkm&#34; &gt;PKM&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/topics/gaming&#34; &gt;Gaming&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Projects: &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/projects/world&#34; &gt;World&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/projects/purple&#34; &gt;Project Purple&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/projects/circus&#34; &gt;Project Circus&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/projects/lone&#34; &gt;Project Lone&lt;/a&gt; / &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/projects/lyphuriaa&#34; &gt;Lyphuriaa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wiki categories: &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/categories/characters&#34; &gt;Characters&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://lulullia.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://lulullia.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
