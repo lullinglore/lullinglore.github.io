@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lulullia.github.io/</loc>
-    <lastmod>2024-03-05T18:57:49+01:00</lastmod>
+    <lastmod>2025-01-14T18:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://lulullia.github.io/artblog/</loc>
-    <lastmod>2024-03-05T18:57:49+01:00</lastmod>
+    <lastmod>2025-01-14T18:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -27,6 +27,9 @@
                 hreflang="en"
                 href="https://lulullia.github.io/artblog/"
                 />
+  </url><url>
+    <loc>https://lulullia.github.io/entry/peaceful-company/</loc>
+    <lastmod>2025-01-14T18:00:00+01:00</lastmod>
   </url><url>
     <loc>https://lulullia.github.io/blog/</loc>
     <lastmod>2024-03-05T18:57:49+01:00</lastmod>
