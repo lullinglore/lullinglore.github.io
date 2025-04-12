@@ -6,6 +6,15 @@
         <description>Recent content in Topics on Purple Planetarium</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Lulullia</copyright><atom:link href="https://lulullia.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Lulullia</copyright>
+        <lastBuildDate>Sat, 12 Apr 2025 14:59:00 +0100</lastBuildDate><atom:link href="https://lulullia.github.io/topics/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Update</title>
+        <link>https://lulullia.github.io/topics/update/</link>
+        <pubDate>Sat, 12 Apr 2025 14:59:00 +0100</pubDate>
+        
+        <guid>https://lulullia.github.io/topics/update/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

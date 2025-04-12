@@ -7,13 +7,87 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Lulullia</copyright>
-        <lastBuildDate>Tue, 14 Jan 2025 18:00:00 +0100</lastBuildDate><atom:link href="https://lulullia.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 12 Apr 2025 14:59:00 +0100</lastBuildDate><atom:link href="https://lulullia.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Welcome to my blog!</title>
+        <link>https://lulullia.github.io/entry/2025/welcome-to-my-blog/</link>
+        <pubDate>Sat, 12 Apr 2025 14:59:00 +0100</pubDate>
+        
+        <guid>https://lulullia.github.io/entry/2025/welcome-to-my-blog/</guid>
+        <description>&lt;p&gt;Hi, Luli here! Welcome to my corner of the internet!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This blog is still new and under construction – but it is now 100% functional so I can already start posting!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Here you&amp;rsquo;ll find art, stories, worldbuilding for the world I&amp;rsquo;m working on, and all sorts of devlogs; I make narrative games but also dabble in a ton of other technical stuff (this website here is one of them – &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt; is one gem of a framework *v*).&lt;/p&gt;
+&lt;p&gt;My old blog&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://lulullia.tumblr.com/about&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;about page&lt;/a&gt; still does a good job introducing all that, so give it a read if you&amp;rsquo;re interested! Read on for a more technical introduction.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-this-place&#34;&gt;What is this place?
+&lt;/h2&gt;&lt;p&gt;Social media never gave me nearly enough customization options, and I&amp;rsquo;m not comfortable keeping my notes on a platform that could vanish anytime; so it was only a matter of time till I decided to make my very own, full-fledged website. And it&amp;rsquo;s not just a website; it&amp;rsquo;s basically (a portion of) my &lt;a class=&#34;link&#34; href=&#34;https://obsidian.md/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Obsidian&lt;/a&gt; vault, with superpowers *w*&lt;/p&gt;
+&lt;p&gt;So most of the pages here are actually just notes inside my &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/playlist?list=PL3NaIVgSlAVJKJf37XqEhUduqTBQ2e-sl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PKM&lt;/a&gt;, and that includes the world wiki. As I develop my world in the form of articles, the &lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/world&#34; &gt;Purpleverse&lt;/a&gt; section will get populated, too. It works the same for the blog; it&amp;rsquo;s actually really nice to be able to write posts from the comfort of my vault.&lt;/p&gt;
+&lt;p&gt;For now the posts look rather plain on the website, but as I get around to it, it&amp;rsquo;ll become something much, much more interconnected and interesting to navigate. All pages already contain a lot of currently hidden metadata, that will eventually be used to display relevant info and list them in all sorts of places – I&amp;rsquo;m really looking forward to implementing all that! Also I have big plans for the world wiki, I&amp;rsquo;d like to make it as immersive and interactive as possible, so stay tuned c:&amp;lt;&lt;/p&gt;
+&lt;p&gt;Obviously none of this would have ever been possible just on socials (and even Tumblr which is the most customizable option I know), though I&amp;rsquo;ll still be active on &lt;a class=&#34;link&#34; href=&#34;https://lulullia.tumblr.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Tumblr&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://gamejolt.com/invite/Lulullia/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Game Jolt&lt;/a&gt;. Give me a follow if you&amp;rsquo;d like, and if you don&amp;rsquo;t use that, there&amp;rsquo;s still the good old email newsletter option! But don&amp;rsquo;t expect much activity on there for a while, as I need to push out more content first.&lt;/p&gt;
+&lt;section class=&#34;widget newsletter-sidebar&#34;&gt;
+    
+&lt;div class=&#34;widget-icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; class=&#34;lucide lucide-newspaper&#34;&gt;&lt;path d=&#34;M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2&#34;/&gt;&lt;path d=&#34;M18 14h-8&#34;/&gt;&lt;path d=&#34;M15 18h-5&#34;/&gt;&lt;path d=&#34;M10 6h8v4h-8V6Z&#34;/&gt;
+    &lt;/svg&gt;
+&lt;/div&gt;
+&lt;h2 class=&#34;widget-title section-title&#34;&gt;Newsletter&lt;/h2&gt;
+
+&lt;script src=&#34;https://f.convertkit.com/ckjs/ck.5.js&#34;&gt;&lt;/script&gt;
+
+&lt;form action=&#34;https://app.kit.com/forms/6563912/subscriptions&#34; class=&#34;seva-form formkit-form&#34; method=&#34;post&#34; data-sv-form=&#34;6563912&#34; data-uid=&#34;552a313362&#34; data-format=&#34;inline&#34; data-version=&#34;5&#34; data-options=&#34;{&amp;quot;settings&amp;quot;:{&amp;quot;after_subscribe&amp;quot;:{&amp;quot;action&amp;quot;:&amp;quot;message&amp;quot;,&amp;quot;success_message&amp;quot;:&amp;quot;Success! Now check your email to confirm your subscription.&amp;quot;,&amp;quot;redirect_url&amp;quot;:&amp;quot;&amp;quot;},&amp;quot;analytics&amp;quot;:{&amp;quot;google&amp;quot;:null,&amp;quot;fathom&amp;quot;:null,&amp;quot;facebook&amp;quot;:null,&amp;quot;segment&amp;quot;:null,&amp;quot;pinterest&amp;quot;:null,&amp;quot;sparkloop&amp;quot;:null,&amp;quot;googletagmanager&amp;quot;:null},&amp;quot;modal&amp;quot;:{&amp;quot;trigger&amp;quot;:&amp;quot;timer&amp;quot;,&amp;quot;scroll_percentage&amp;quot;:null,&amp;quot;timer&amp;quot;:5,&amp;quot;devices&amp;quot;:&amp;quot;all&amp;quot;,&amp;quot;show_once_every&amp;quot;:15},&amp;quot;powered_by&amp;quot;:{&amp;quot;show&amp;quot;:true,&amp;quot;url&amp;quot;:&amp;quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;amp;utm_content=form&amp;amp;utm_medium=referral&amp;amp;utm_source=dynamic&amp;quot;},&amp;quot;recaptcha&amp;quot;:{&amp;quot;enabled&amp;quot;:false},&amp;quot;return_visitor&amp;quot;:{&amp;quot;action&amp;quot;:&amp;quot;show&amp;quot;,&amp;quot;custom_content&amp;quot;:&amp;quot;Thanks for subscribing!&amp;quot;},&amp;quot;slide_in&amp;quot;:{&amp;quot;display_in&amp;quot;:&amp;quot;bottom_right&amp;quot;,&amp;quot;trigger&amp;quot;:&amp;quot;timer&amp;quot;,&amp;quot;scroll_percentage&amp;quot;:null,&amp;quot;timer&amp;quot;:5,&amp;quot;devices&amp;quot;:&amp;quot;all&amp;quot;,&amp;quot;show_once_every&amp;quot;:15},&amp;quot;sticky_bar&amp;quot;:{&amp;quot;display_in&amp;quot;:&amp;quot;top&amp;quot;,&amp;quot;trigger&amp;quot;:&amp;quot;timer&amp;quot;,&amp;quot;scroll_percentage&amp;quot;:null,&amp;quot;timer&amp;quot;:5,&amp;quot;devices&amp;quot;:&amp;quot;all&amp;quot;,&amp;quot;show_once_every&amp;quot;:15}},&amp;quot;version&amp;quot;:&amp;quot;5&amp;quot;}&#34; min-width=&#34;400 500 600 700 800&#34;&gt;
+
+    &lt;div class=&#34;formkit-subheader&#34; data-element=&#34;subheader&#34;&gt;
+        Receive new content, posts and news in your inbox!
+    &lt;/div&gt;
+
+    &lt;ul class=&#34;formkit-alert formkit-alert-error&#34; data-element=&#34;errors&#34; data-group=&#34;alert&#34;&gt;&lt;/ul&gt;
+
+    &lt;div data-element=&#34;fields&#34; class=&#34;seva-fields formkit-fields&#34;&gt;
+        &lt;div class=&#34;formkit-field&#34;&gt;
+            &lt;input name=&#34;email_address&#34; aria-label=&#34;Email Address&#34; placeholder=&#34;Email address&#34; required=&#34;&#34; type=&#34;email&#34;&gt;
+        &lt;/div&gt;
+
+        &lt;button data-element=&#34;submit&#34; class=&#34;formkit-submit&#34;&gt;
+            &lt;div class=&#34;formkit-spinner&#34;&gt;
+                &lt;div&gt;&lt;/div&gt;
+                &lt;div&gt;&lt;/div&gt;
+                &lt;div&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;span&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34;
+                    width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;
+                    fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;
+                    stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;
+                    class=&#34;lucide lucide-send-horizontal icon&#34;&gt;
+                    &lt;path d=&#34;m3 3 3 9-3 9 19-9Z&#34;/&gt;&lt;path d=&#34;M6 12h16&#34;/&gt;
+            &lt;/svg&gt;&lt;/span&gt;
+        &lt;/button&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;formkit-guarantee&#34; data-element=&#34;guarantee&#34;&gt;
+        No spam. Unsubscribe at any time.
+    &lt;/div&gt;
+
+&lt;/form&gt;
+&lt;/section&gt;
+&lt;h2 id=&#34;next-up&#34;&gt;Next up
+&lt;/h2&gt;&lt;p&gt;My current focus is on worldbuilding, and more specifically global geography. I aim to get a solid geographical base for my world, and so have completed the rather huge undertaking of simulating the planet&amp;rsquo;s tectonic history. Next is figuring out what kind of land that gives me, aka topography; then will come global climate. Once that&amp;rsquo;s done, I can focus in developing the areas where my stories take place.&lt;/p&gt;
+&lt;p&gt;In parallel, I work on Project Purple, the first narrative game and a &amp;ldquo;short&amp;rdquo; practice project. It&amp;rsquo;s set in my world but to progress as quickly as possible on it, I decided to not wait for the worldbuilding to be completed first; so it&amp;rsquo;s going to use whatever latest version of my world exists in my head, and I expect some things to be retconned later, but it&amp;rsquo;s fine. The story is self-contained and doesn&amp;rsquo;t need much context to work.&lt;/p&gt;
+&lt;p&gt;Also in parallel, I might continue working on this website (the visuals and features of it) because it&amp;rsquo;s clearly not up to my standards right now. But hey, I can&amp;rsquo;t wait for it to be perfect before I can use it either. It&amp;rsquo;s good to be messy sometimes!&lt;/p&gt;
+&lt;p&gt;And that&amp;rsquo;s about it for now. See y&amp;rsquo;all soon for another post!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;~ Lulullia &amp;lt;:&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Peaceful company</title>
-        <link>https://lulullia.github.io/entry/peaceful-company/</link>
+        <link>https://lulullia.github.io/entry/2025/art-peaceful-company/</link>
         <pubDate>Tue, 14 Jan 2025 18:00:00 +0100</pubDate>
         
-        <guid>https://lulullia.github.io/entry/peaceful-company/</guid>
-        <description>&lt;img src="https://64.media.tumblr.com/a3e20f25683f807480c741d7b6fd7072/887c53676057f140-43/s1280x1920/558d97df86ed178b383f0f21ca4df85f7900c511.png" alt="Featured image of post Peaceful company" /&gt;&lt;p&gt;&lt;div class=&#34;embed video-player&#34;&gt;
+        <guid>https://lulullia.github.io/entry/2025/art-peaceful-company/</guid>
+        <description>&lt;img src="https://lulullia.github.io/img/art/peaceful-company.jpg" alt="Featured image of post Peaceful company" /&gt;&lt;p&gt;&lt;div class=&#34;embed video-player&#34;&gt;
     &lt;video class=&#34;tumblr-player&#34; width=&#34;100%&#34; disablepictureinpicture
          loop autoplay &gt;
         &lt;source src=&#34;https://va.media.tumblr.com/tumblr_sq3907isyB1xjwedr.mp4&#34; type=&#34;video/mp4&#34; /&gt;
@@ -30,12 +104,76 @@ Simply sitting still together, sharing feelings and enjoying the quiet.&lt;/p&gt
 </description>
         </item>
         <item>
-        <title>Project 1</title>
-        <link>https://lulullia.github.io/projects/test-project/</link>
-        <pubDate>Tue, 05 Mar 2024 18:57:49 +0100</pubDate>
+        <title>World</title>
+        <link>https://lulullia.github.io/projects/world/</link>
+        <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://lulullia.github.io/projects/test-project/</guid>
-        <description>&lt;p&gt;Some content!&lt;/p&gt;
+        <guid>https://lulullia.github.io/projects/world/</guid>
+        <description>&lt;p&gt;Rename to _index.md for this to take effect&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Project Purple</title>
+        <link>https://lulullia.github.io/projects/purple/</link>
+        <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://lulullia.github.io/projects/purple/</guid>
+        <description>&lt;p&gt;Rename to _index.md for this to take effect&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Project Lone</title>
+        <link>https://lulullia.github.io/projects/lone/</link>
+        <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://lulullia.github.io/projects/lone/</guid>
+        <description>&lt;p&gt;Rename to _index.md for this to take effect&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Vladleen photo</title>
+        <link>https://lulullia.github.io/entry/2023/art-vladleen-photo/</link>
+        <pubDate>Sun, 09 Jul 2023 16:59:22 +0100</pubDate>
+        
+        <guid>https://lulullia.github.io/entry/2023/art-vladleen-photo/</guid>
+        <description>&lt;img src="https://lulullia.github.io/img/art/vladleen-photo.jpg" alt="Featured image of post Vladleen photo" /&gt;&lt;p&gt;Isn’t Lulu so cute? She probably had to beg for days to convince Vlad to make such a cheesy gesture…&lt;/p&gt;
+&lt;h2 id=&#34;progress-log&#34;&gt;Progress log
+&lt;/h2&gt;&lt;p&gt;God this one was especially hard, not really because of what I was drawing but because of &lt;strong&gt;how&lt;/strong&gt;. It made me learn about a bazillion things &lt;strong&gt;not&lt;/strong&gt; to repeat &lt;strong&gt;ever&lt;/strong&gt; again.&lt;/p&gt;
+&lt;p&gt;All things considered though, it came out pretty good! I wanted to give up so many times and there were so many catastrophes I’m really surprised in how clean it looks.&lt;/p&gt;
+&lt;p&gt;I’m even more surprised that I was able to push through and bring it to the finish despite it all, it’s something to celebrate ;-;&lt;/p&gt;
+&lt;p&gt;A lil’ summary of what this piece taught me ⤵&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I really need to study the rest of the human anatomy. The legs were difficult, the feet too. I only realize this now because I mostly draw torsos and simple poses. Also, first time I draw characters interacting – it was fun but it’s really something I need to practice more!&lt;/li&gt;
+&lt;li&gt;If I plan on using the sketch as lineart, please for the love of God use an opaque brush. The amount of time I spent fixing the lineart because it was semi-transparent, I might as well have drawn 3 layers of proper lineart.&lt;/li&gt;
+&lt;li&gt;Keep an eye on the background color. Because of some transparency stuff, I didn’t realize some parts of the drawing only looked right with the current bg color – so when I thought I was done and changed it, I stared in horror at the ugly artifacts all around the drawing. It was painful to fix.&lt;/li&gt;
+&lt;li&gt;Sometimes it’s easier to just draw over the sketch, taking the lines I like, instead of cleaning it up. Because using the sketch layer – especially with an opacity brush – leaves around a ton of barely visible artifacts. I had to “select opaque” to see them and clear them out, and it was also painful.&lt;/li&gt;
+&lt;li&gt;Generally, going into a drawing without a plan for what style it’s gonna be is a bad idea and results in a lot of problems down the line.&lt;/li&gt;
+&lt;li&gt;Better fix any problems I have with the drawing as early as possible, because I’ll end up fixing it anyway, only if I’m too far in the process it’ll cost me more time.&lt;/li&gt;
+&lt;li&gt;I need to stop drawing too detailed an anatomy if I know it’s gonna get covered by clothes anyway… T-T&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Phew, I’m still shocked that I managed to make a decent piece even after all these problems. Somehow I feel pretty good about it, I think the joy of seeing it finished made all my bad experience with it go away.&lt;/p&gt;
+&lt;p&gt;It’s great, especially since I’ve been struggling a lot with self-doubt about my creative projects recently; this shows me that no matter how crappy something seems to be, if only I push through and finish it, all that bad energy turns into incredibly good feelings of accomplishment and pride.&lt;/p&gt;
+&lt;p&gt;Hope that’s useful; now I really want to make a mini story game and see how it turns out…&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Nom bust</title>
+        <link>https://lulullia.github.io/entry/2023/art-nom-bust/</link>
+        <pubDate>Fri, 03 Mar 2023 17:50:13 +0100</pubDate>
+        
+        <guid>https://lulullia.github.io/entry/2023/art-nom-bust/</guid>
+        <description>&lt;img src="https://lulullia.github.io/img/art/nom-bust.jpg" alt="Featured image of post Nom bust" /&gt;&lt;p&gt;First character portrait from Project Circus featuring Nom, the youngest member of the crew!&lt;/p&gt;
+&lt;p&gt;She has the unsettling habit of always munching on her fingers, despite the collective efforts of the other members to make her stop. But if she finds herself unable to remove the bandages on her hands, Nom won&amp;rsquo;t hesitate to search for another collection of soft fingers to feast on…&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Lulu bust</title>
+        <link>https://lulullia.github.io/entry/2022/art-lulu-bust/</link>
+        <pubDate>Fri, 10 Jun 2022 17:34:02 +0100</pubDate>
+        
+        <guid>https://lulullia.github.io/entry/2022/art-lulu-bust/</guid>
+        <description>&lt;img src="https://lulullia.github.io/img/art/lulu-bust.jpg" alt="Featured image of post Lulu bust" /&gt;&lt;p&gt;I’m so happy with this one. Not only it’s good to finish a piece, but I also learned how to render with it. I followed a tut and it’s not so hard after all x)&lt;br&gt;
+I was mostly focused on anatomy up until now, and I’m excited to switch the focus of my art studies to color, lighting and rendering!&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -46,7 +184,7 @@ Simply sitting still together, sharing feelings and enjoying the quiet.&lt;/p&gt
         <guid>https://lulullia.github.io/about/</guid>
         <description>&lt;p&gt;Youhou, Luli here!&lt;/p&gt;
 &lt;p&gt;This website is still under construction, so in the meantime, check out my &lt;a class=&#34;link&#34; href=&#34;https://lulullia.tumblr.com/about&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;previous blog&lt;/a&gt; c:&lt;/p&gt;
+    &gt;previous blog&lt;/a&gt; &amp;lt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/journey&#34; &gt;Journey&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/projects&#34; &gt;Projects&lt;/a&gt;&lt;/li&gt;
@@ -65,10 +203,10 @@ Simply sitting still together, sharing feelings and enjoying the quiet.&lt;/p&gt
         </item>
         <item>
         <title>Navigation</title>
-        <link>https://lulullia.github.io/navigation/</link>
+        <link>https://lulullia.github.io/nav/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://lulullia.github.io/navigation/</guid>
+        <guid>https://lulullia.github.io/nav/</guid>
         <description>&lt;p&gt;Sitemap.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://lulullia.github.io/about&#34; &gt;About&lt;/a&gt;&lt;/li&gt;

@@ -7,6 +7,22 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Lulullia</copyright>
-        <lastBuildDate></lastBuildDate><atom:link href="https://lulullia.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lulullia.github.io/projects/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Project Circus</title>
+        <link>https://lulullia.github.io/projects/circus/</link>
+        <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://lulullia.github.io/projects/circus/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Lyphuriaa</title>
+        <link>https://lulullia.github.io/projects/lyphuriaa/</link>
+        <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://lulullia.github.io/projects/lyphuriaa/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
