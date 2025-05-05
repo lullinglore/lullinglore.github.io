@@ -91,6 +91,19 @@
     <loc>https://lulullia.github.io/projects/lyphuriaa/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lulullia.github.io/world/alterations/</loc>
+    <lastmod>2024-03-05T18:57:49+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/alterations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/alterations/"
+                />
+  </url><url>
     <loc>https://lulullia.github.io/world/</loc>
     <lastmod>2024-03-05T18:57:49+01:00</lastmod>
     <xhtml:link
@@ -125,6 +138,30 @@
                 href="https://lulullia.github.io/about/"
                 />
   </url><url>
+    <loc>https://lulullia.github.io/world/art-entertainment/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/art-entertainment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/art-entertainment/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/buildings/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/buildings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/buildings/"
+                />
+  </url><url>
     <loc>https://lulullia.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -137,7 +174,151 @@
                 href="https://lulullia.github.io/categories/"
                 />
   </url><url>
+    <loc>https://lulullia.github.io/world/characters/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/characters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/characters/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/communities/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/communities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/communities/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/competitions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/competitions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/competitions/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/countries/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/countries/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/countries/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/ecologies/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/ecologies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/ecologies/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/events/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/events/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/gastronomy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/gastronomy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/gastronomy/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/geography/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/geography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/geography/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/items/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/items/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/items/"
+                />
+  </url><url>
     <loc>https://lulullia.github.io/journey/</loc>
+  </url><url>
+    <loc>https://lulullia.github.io/world/materials/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/materials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/materials/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/media/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/media/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/media/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/natural-laws/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/natural-laws/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/natural-laws/"
+                />
   </url><url>
     <loc>https://lulullia.github.io/nav/</loc>
   </url><url>
@@ -153,7 +334,31 @@
                 href="https://lulullia.github.io/page/"
                 />
   </url><url>
+    <loc>https://lulullia.github.io/world/professions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/professions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/professions/"
+                />
+  </url><url>
     <loc>https://lulullia.github.io/sub-confirmed/</loc>
+  </url><url>
+    <loc>https://lulullia.github.io/world/relationships/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/relationships/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/relationships/"
+                />
   </url><url>
     <loc>https://lulullia.github.io/search/</loc>
     <xhtml:link
@@ -165,6 +370,90 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://lulullia.github.io/search/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/settlements/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/settlements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/settlements/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/species/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/species/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/species/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/systems/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/systems/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/systems/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/technology/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/technology/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/timelines/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/timelines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/timelines/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/titles/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/titles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/titles/"
+                />
+  </url><url>
+    <loc>https://lulullia.github.io/world/traditions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lulullia.github.io/fr/world/traditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lulullia.github.io/world/traditions/"
                 />
   </url>
 </urlset>
