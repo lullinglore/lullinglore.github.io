@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lulullia.github.io/</loc>
-    <lastmod>2025-05-22T18:36:32+01:00</lastmod>
+    <lastmod>2025-06-03T11:21:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://lulullia.github.io/artblog/</loc>
-    <lastmod>2025-05-22T18:36:32+01:00</lastmod>
+    <lastmod>2025-06-03T11:21:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -27,6 +27,9 @@
                 hreflang="en"
                 href="https://lulullia.github.io/artblog/"
                 />
+  </url><url>
+    <loc>https://lulullia.github.io/entry/2025/art-luli-the-jelli/</loc>
+    <lastmod>2025-06-03T11:21:27+01:00</lastmod>
   </url><url>
     <loc>https://lulullia.github.io/entry/2025/art-purpleverse-characters-%231-~-lurleen/</loc>
     <lastmod>2025-05-22T18:36:32+01:00</lastmod>
