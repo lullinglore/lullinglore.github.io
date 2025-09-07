@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>competitions on Purple Planetarium</title>
-        <link>https://lulullia.github.io/world/competitions/</link>
+        <link>https://lullinglore.github.io/world/competitions/</link>
         <description>Recent content in competitions on Purple Planetarium</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Lulullia</copyright><atom:link href="https://lulullia.github.io/world/competitions/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Lulling</copyright><atom:link href="https://lullinglore.github.io/world/competitions/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

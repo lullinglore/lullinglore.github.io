@@ -2,19 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Topics on Purple Planetarium</title>
-        <link>https://lulullia.github.io/topics/</link>
+        <link>https://lullinglore.github.io/topics/</link>
         <description>Recent content in Topics on Purple Planetarium</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Lulullia</copyright>
-        <lastBuildDate>Sat, 12 Apr 2025 14:59:00 +0100</lastBuildDate><atom:link href="https://lulullia.github.io/topics/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Update</title>
-        <link>https://lulullia.github.io/topics/update/</link>
-        <pubDate>Sat, 12 Apr 2025 14:59:00 +0100</pubDate>
-        
-        <guid>https://lulullia.github.io/topics/update/</guid>
-        <description></description>
-        </item>
-        
+        <copyright>Lulling</copyright><atom:link href="https://lullinglore.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

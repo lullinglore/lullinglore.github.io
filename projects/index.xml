@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Projects on Purple Planetarium</title>
-        <link>https://lulullia.github.io/projects/</link>
+        <link>https://lullinglore.github.io/projects/</link>
         <description>Recent content in Projects on Purple Planetarium</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Lulullia</copyright>
-        <lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lulullia.github.io/projects/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Lulling</copyright>
+        <lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lullinglore.github.io/projects/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Project Circus</title>
-        <link>https://lulullia.github.io/projects/circus/</link>
+        <link>https://lullinglore.github.io/projects/circus/</link>
         <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://lulullia.github.io/projects/circus/</guid>
+        <guid>https://lullinglore.github.io/projects/circus/</guid>
         <description></description>
         </item>
         <item>
         <title>Lyphuriaa</title>
-        <link>https://lulullia.github.io/projects/lyphuriaa/</link>
+        <link>https://lullinglore.github.io/projects/lyphuriaa/</link>
         <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://lulullia.github.io/projects/lyphuriaa/</guid>
+        <guid>https://lullinglore.github.io/projects/lyphuriaa/</guid>
         <description></description>
         </item>
         
