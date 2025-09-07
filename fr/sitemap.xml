@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lullinglore.github.io/fr/world/alterations/</loc>
+    <lastmod>2024-03-05T18:57:49+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lullinglore.github.io/world/alterations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lullinglore.github.io/fr/world/alterations/"
+                />
+  </url><url>
+    <loc>https://lullinglore.github.io/fr/</loc>
+    <lastmod>2024-03-05T18:57:49+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lullinglore.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lullinglore.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://lullinglore.github.io/fr/monde/</loc>
+    <lastmod>2024-03-05T18:57:49+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lullinglore.github.io/world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lullinglore.github.io/fr/monde/"
+                />
+  </url><url>
     <loc>https://lullinglore.github.io/fr/%C3%A0-propos/</loc>
     <xhtml:link
                 rel="alternate"
@@ -12,18 +51,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://lullinglore.github.io/fr/%C3%A0-propos/"
-                />
-  </url><url>
-    <loc>https://lullinglore.github.io/fr/world/alterations/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lullinglore.github.io/world/alterations/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lullinglore.github.io/fr/world/alterations/"
                 />
   </url><url>
     <loc>https://lullinglore.github.io/fr/world/art-entertainment/</loc>
@@ -264,30 +291,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://lullinglore.github.io/fr/projets/"
-                />
-  </url><url>
-    <loc>https://lullinglore.github.io/fr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lullinglore.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lullinglore.github.io/fr/"
-                />
-  </url><url>
-    <loc>https://lullinglore.github.io/fr/monde/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lullinglore.github.io/world/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lullinglore.github.io/fr/monde/"
                 />
   </url><url>
     <loc>https://lullinglore.github.io/fr/recherche/</loc>
