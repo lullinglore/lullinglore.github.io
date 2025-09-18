@@ -110,8 +110,13 @@
 &lt;p&gt;Obviously none of this would have ever been possible just on socials (and even Tumblr which is the most customizable option I know), though I&amp;rsquo;ll still be active on &lt;a class=&#34;link&#34; href=&#34;https://lullinglore.tumblr.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Tumblr&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://gamejolt.com/invite/lullinglore/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Game Jolt&lt;/a&gt;. Give me a follow if you&amp;rsquo;d like, and if you don&amp;rsquo;t use that, there&amp;rsquo;s still the good old email newsletter option! But don&amp;rsquo;t expect much activity on there for a while, as I need to push out more content first.&lt;/p&gt;
+&lt;section class=&#34;widget newsletter-sidebar&#34;&gt;
 
+    &lt;iframe src=&#34;https://lullinglore.substack.com/embed&#34; width=&#34;350&#34; height=&#34;150&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;
+        style=&#34;border:3px solid var(--accent-color); box-shadow: var(--shadow-l3); border-radius: var(--card-border-radius); margin: 0 auto;&#34;&gt;
+    &lt;/iframe&gt;
 
+&lt;/section&gt;
 &lt;h2 id=&#34;next-up&#34;&gt;Next up
 &lt;/h2&gt;&lt;p&gt;My current focus is on worldbuilding, and more specifically global geography. I aim to get a solid geographical base for my world, and so have completed the rather huge undertaking of simulating the planet&amp;rsquo;s tectonic history. Next is figuring out what kind of land that gives me, aka topography; then will come global climate. Once that&amp;rsquo;s done, I can focus in developing the areas where my stories take place.&lt;/p&gt;
 &lt;p&gt;In parallel, I work on Project Purple, the first narrative game and a &amp;ldquo;short&amp;rdquo; practice project. It&amp;rsquo;s set in my world but to progress as quickly as possible on it, I decided to not wait for the worldbuilding to be completed first; so it&amp;rsquo;s going to use whatever latest version of my world exists in my head, and I expect some things to be retconned later, but it&amp;rsquo;s fine. The story is self-contained and doesn&amp;rsquo;t need much context to work.&lt;/p&gt;
@@ -611,14 +616,14 @@ I was mostly focused on anatomy up until now, and I’m excited to switch the fo
     LINKS&lt;br&gt;@lullinglore everywhere!
     &lt;br&gt;&lt;br&gt;
     &lt;div class=&#34;link-box&#34;&gt;
-        MAIN: 
+        MAIN/ACTIVE: 
         &lt;a href=&#34;https://ko-fi.com/lullinglore&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Ko-fi&lt;/a&gt; | 
         &lt;a href=&#34;https://lullinglore.tumblr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tumblr&lt;/a&gt; | 
         &lt;a href=&#34;https://gamejolt.com/invite/lullinglore&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Game Jolt&lt;/a&gt; | 
         &lt;a href=&#34;https://www.youtube.com/@lullinglore&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;YouTube&lt;/a&gt; | 
         &lt;a href=&#34;https://purple-planetarium.itch.io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;itch.io&lt;/a&gt;
         
-        &lt;br&gt;ACTIVE: 
+        &lt;br&gt;SIDE/REPOSTS: 
         &lt;a href=&#34;https://www.pinterest.com/lullinglore&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Pinterest&lt;/a&gt; | 
         &lt;a href=&#34;https://www.pixiv.net/en/users/37499270&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Pixiv&lt;/a&gt; | 
         &lt;a href=&#34;https://lullinglore.newgrounds.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Newgrounds&lt;/a&gt; | 
@@ -693,8 +698,16 @@ I was mostly focused on anatomy up until now, and I’m excited to switch the fo
 
     &lt;p&gt;* COMING SOON *&lt;/p&gt;
     &lt;p&gt;The Purple Planetarium shall open its doors&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p&gt;Join the waitlist&lt;/p&gt;
 &lt;/div&gt;
-</description>
+&lt;section class=&#34;widget newsletter-sidebar&#34;&gt;
+
+    &lt;iframe src=&#34;https://lullinglore.substack.com/embed&#34; width=&#34;350&#34; height=&#34;150&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;
+        style=&#34;border:3px solid var(--accent-color); box-shadow: var(--shadow-l3); border-radius: var(--card-border-radius); margin: 0 auto;&#34;&gt;
+    &lt;/iframe&gt;
+
+&lt;/section&gt;</description>
         </item>
         <item>
         <title>Navigation</title>
