@@ -310,7 +310,7 @@
                 &lt;svg class=&#34;icon&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;!--Boxicons v3.0 https://boxicons.com | License  https://docs.boxicons.com/free--&gt;&lt;path d=&#34;M12 22c3.8 0 7.23-2.12 8.94-5.53.24-.48.06-1.05-.4-1.32L15.02 12l5.52-3.15c.46-.26.64-.84.4-1.32C19.23 4.12 15.81 2 12 2 6.49 2 2 6.49 2 12s4.49 10 10 10m-.5-16c.83 0 1.5.67 1.5 1.5S12.33 9 11.5 9 10 8.33 10 7.5 10.67 6 11.5 6&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
                 &lt;/span&gt;
 
-            &lt;span&gt;Currently playing &lt;strong&gt;Hollow Knight&lt;/strong&gt;&lt;/span&gt;
+            &lt;span&gt;Currently playing &lt;strong&gt;The Witness&lt;/strong&gt;&lt;/span&gt;
         &lt;/div&gt;
         &lt;div class=&#34;icon-table&#34;&gt;
             
@@ -435,7 +435,7 @@
     &lt;/div&gt;
 
     &lt;div class=&#34;box-small transparent noshadow&#34;&gt;
-        &lt;div class=&#34;button&#34;&gt;&lt;a href=&#34;https://lullinglore.github.io/membership&#34;&gt;Become a Member&lt;/a&gt;&lt;/div&gt;
+        &lt;div class=&#34;button&#34;&gt;&lt;a href=&#34;https://lullinglore.github.io/membership&#34;&gt;Become an Orbiter&lt;/a&gt;&lt;/div&gt;
         &lt;div class=&#34;quote-src&#34;&gt;— Enter the Planetarium&lt;/div&gt;
     &lt;/div&gt;
     
@@ -496,7 +496,20 @@
         style=&#34;border:3px solid var(--accent-color); box-shadow: var(--shadow-l3); border-radius: var(--card-border-radius); margin: 0 auto;&#34;&gt;
     &lt;/iframe&gt;
 
-&lt;/section&gt;</description>
+&lt;/section&gt;
+
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;div class=&#34;box-big noshadow transparent&#34;&gt;
+    &lt;div class=&#34;separator&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+
+&lt;div class=&#34;text-display text-bold text-center&#34;&gt;THE CONSTELLARY&lt;/div&gt;
+&lt;div class=&#34;box-big transparent noshadow text-center text-big&#34;&gt;Archive of past and present Orbiters of Orrion&lt;/div&gt;
+&lt;div class=&#34;box-big text-center text-big&#34;&gt;
+    &lt;p&gt;[currently empty... but not for long]&lt;/p&gt;
+&lt;/div&gt;</description>
         </item>
         <item>
         <title>Navigation</title>
